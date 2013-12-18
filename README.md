@@ -6,4 +6,4 @@ A fontset generated using FontCustom, using SVGs from https://github.com/djaiss/
 Usage
 =====
 
-fc-<countryCode>
+fc-countryCode
