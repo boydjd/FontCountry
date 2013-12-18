@@ -1,0 +1,510 @@
+//
+// Icon Font: FontCountry
+//
+
+@font-face {
+  font-family: "FontCountry";
+  src: font-url("./FontCountry.eot");
+  src: font-url("./FontCountry.eot?#iefix") format("embedded-opentype"),
+       font-url("./FontCountry.woff") format("woff"),
+       font-url("./FontCountry.ttf") format("truetype"),
+       font-url("./FontCountry.svg#FontCountry") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+.fc-gu:before,
+.fc-mk:before,
+.fc-cm:before,
+.fc-wf:before,
+.fc-lc:before,
+.fc-ht:before,
+.fc-fk:before,
+.fc-lk:before,
+.fc-nf:before,
+.fc-hr:before,
+.fc-mf:before,
+.fc-kz:before,
+.fc-pl:before,
+.fc-cg:before,
+.fc-cx:before,
+.fc-sm:before,
+.fc-sg:before,
+.fc-lu:before,
+.fc-ck:before,
+.fc-do:before,
+.fc-in:before,
+.fc-pm:before,
+.fc-ws:before,
+.fc-ki:before,
+.fc-id:before,
+.fc-pe:before,
+.fc-na:before,
+.fc-nr:before,
+.fc-sd:before,
+.fc-ge:before,
+.fc-mz:before,
+.fc-pr:before,
+.fc-sx:before,
+.fc-is:before,
+.fc-mc:before,
+.fc-al:before,
+.fc-cw:before,
+.fc-bg:before,
+.fc-tf:before,
+.fc-mt:before,
+.fc-bj:before,
+.fc-sy:before,
+.fc-ph:before,
+.fc-ar:before,
+.fc-sz:before,
+.fc-cz:before,
+.fc-aq:before,
+.fc-mx:before,
+.fc-sh:before,
+.fc-tl:before,
+.fc-rs:before,
+.fc-tn:before,
+.fc-bo:before,
+.fc-my:before,
+.fc-md:before,
+.fc-ie:before,
+.fc-ky:before,
+.fc-at:before,
+.fc-tt:before,
+.fc-uy:before,
+.fc-mn:before,
+.fc-jm:before,
+.fc-ls:before,
+.fc-lr:before,
+.fc-ua:before,
+.fc-dm:before,
+.fc-nc:before,
+.fc-si:before,
+.fc-ad:before,
+.fc-lt:before,
+.fc-bn:before,
+.fc-ug:before,
+.fc-km:before,
+.fc-jp:before,
+.fc-gf:before,
+.fc-mw:before,
+.fc-ch:before,
+.fc-am:before,
+.fc-sj:before,
+.fc-vc:before,
+.fc-gt:before,
+.fc-mr:before,
+.fc-qa:before,
+.fc-la:before,
+.fc-vn:before,
+.fc-gw:before,
+.fc-mm:before,
+.fc-ms:before,
+.fc-tz:before,
+.fc-gy:before,
+.fc-cf:before,
+.fc-ke:before,
+.fc-ca:before,
+.fc-za:before,
+.fc-az:before,
+.fc-bh:before,
+.fc-dj:before,
+.fc-sa:before,
+.fc-cc:before,
+.fc-kw:before,
+.fc-th:before,
+.fc-ga:before,
+.fc-gh:before,
+.fc-bl:before,
+.fc-gb:before,
+.fc-jo:before,
+.fc-lb:before,
+.fc-tj:before,
+.fc-af:before,
+.fc-ao:before,
+.fc-me:before,
+.fc-kg:before,
+.fc-vu:before,
+.fc-pt:before,
+.fc-yt:before,
+.fc-ct:before,
+.fc-as:before,
+.fc-va:before,
+.fc-au:before,
+.fc-fj:before,
+.fc-no:before,
+.fc-by:before,
+.fc-et:before,
+.fc-gi:before,
+.fc-ve:before,
+.fc-pg:before,
+.fc-tg:before,
+.fc-co:before,
+.fc-mq:before,
+.fc-lv:before,
+.fc-np:before,
+.fc-cr:before,
+.fc-ag:before,
+.fc-il:before,
+.fc-vg:before,
+.fc-ss:before,
+.fc-tk:before,
+.fc-er:before,
+.fc-aw:before,
+.fc-bi:before,
+.fc-ax:before,
+.fc-kr:before,
+.fc-ni:before,
+.fc-pk:before,
+.fc-bs:before,
+.fc-pf:before,
+.fc-so:before,
+.fc-zw:before,
+.fc-bz:before,
+.fc-td:before,
+.fc-bw:before,
+.fc-be:before,
+.fc-ru:before,
+.fc-ec:before,
+.fc-pa:before,
+.fc-ai:before,
+.fc-eg:before,
+.fc-bv:before,
+.fc-gs:before,
+.fc-gp:before,
+.fc-ye:before,
+.fc-gg:before,
+.fc-nu:before,
+.fc-mu:before,
+.fc-bf:before,
+.fc-cu:before,
+.fc-it:before,
+.fc-cd:before,
+.fc-ne:before,
+.fc-hu:before,
+.fc-mv:before,
+.fc-pw:before,
+.fc-re:before,
+.fc-iq:before,
+.fc-cv:before,
+.fc-gr:before,
+.fc-im:before,
+.fc-gd:before,
+.fc-py:before,
+.fc-dk:before,
+.fc-fi:before,
+.fc-om:before,
+.fc-vi:before,
+.fc-ee:before,
+.fc-gl:before,
+.fc-tw:before,
+.fc-st:before,
+.fc-de:before,
+.fc-bq:before,
+.fc-br:before,
+.fc-cn:before,
+.fc-gn:before,
+.fc-tc:before,
+.fc-fo:before,
+.fc-kn:before,
+.fc-li:before,
+.fc-sk:before,
+.fc-nl:before,
+.fc-hn:before,
+.fc-zm:before,
+.fc-nz:before,
+.fc-pn:before,
+.fc-dz:before,
+.fc-ae:before,
+.fc-mg:before,
+.fc-ci:before,
+.fc-ml:before,
+.fc-tm:before,
+.fc-sl:before,
+.fc-es:before,
+.fc-kp:before,
+.fc-bb:before,
+.fc-io:before,
+.fc-eh:before,
+.fc-ro:before,
+.fc-sc:before,
+.fc-hk:before,
+.fc-gm:before,
+.fc-rw:before,
+.fc-ly:before,
+.fc-fr:before,
+.fc-ir:before,
+.fc-kh:before,
+.fc-us:before,
+.fc-sb:before,
+.fc-mo:before,
+.fc-tr:before,
+.fc-bm:before,
+.fc-bt:before,
+.fc-to:before,
+.fc-ma:before,
+.fc-sr:before,
+.fc-gq:before,
+.fc-cl:before,
+.fc-hm:before,
+.fc-sv:before,
+.fc-sn:before,
+.fc-bd:before,
+.fc-ba:before,
+.fc-se:before,
+.fc-ng:before,
+.fc-uz:before {
+  font-family: "FontCountry";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block;
+  text-decoration: inherit;
+}
+
+.fc-gu:before { content: "\f100"; }
+.fc-mk:before { content: "\f101"; }
+.fc-cm:before { content: "\f102"; }
+.fc-wf:before { content: "\f103"; }
+.fc-lc:before { content: "\f104"; }
+.fc-ht:before { content: "\f105"; }
+.fc-fk:before { content: "\f106"; }
+.fc-lk:before { content: "\f107"; }
+.fc-nf:before { content: "\f108"; }
+.fc-hr:before { content: "\f109"; }
+.fc-mf:before { content: "\f10a"; }
+.fc-kz:before { content: "\f10b"; }
+.fc-pl:before { content: "\f10c"; }
+.fc-cg:before { content: "\f10d"; }
+.fc-cx:before { content: "\f10e"; }
+.fc-sm:before { content: "\f10f"; }
+.fc-sg:before { content: "\f110"; }
+.fc-lu:before { content: "\f111"; }
+.fc-ck:before { content: "\f112"; }
+.fc-do:before { content: "\f113"; }
+.fc-in:before { content: "\f114"; }
+.fc-pm:before { content: "\f115"; }
+.fc-ws:before { content: "\f116"; }
+.fc-ki:before { content: "\f117"; }
+.fc-id:before { content: "\f118"; }
+.fc-pe:before { content: "\f119"; }
+.fc-na:before { content: "\f11a"; }
+.fc-nr:before { content: "\f11b"; }
+.fc-sd:before { content: "\f11c"; }
+.fc-ge:before { content: "\f11d"; }
+.fc-mz:before { content: "\f11e"; }
+.fc-pr:before { content: "\f11f"; }
+.fc-sx:before { content: "\f120"; }
+.fc-is:before { content: "\f121"; }
+.fc-mc:before { content: "\f122"; }
+.fc-al:before { content: "\f123"; }
+.fc-cw:before { content: "\f124"; }
+.fc-bg:before { content: "\f125"; }
+.fc-tf:before { content: "\f126"; }
+.fc-mt:before { content: "\f127"; }
+.fc-bj:before { content: "\f128"; }
+.fc-sy:before { content: "\f129"; }
+.fc-ph:before { content: "\f12a"; }
+.fc-ar:before { content: "\f12b"; }
+.fc-sz:before { content: "\f12c"; }
+.fc-cz:before { content: "\f12d"; }
+.fc-aq:before { content: "\f12e"; }
+.fc-mx:before { content: "\f12f"; }
+.fc-sh:before { content: "\f130"; }
+.fc-tl:before { content: "\f131"; }
+.fc-rs:before { content: "\f132"; }
+.fc-tn:before { content: "\f133"; }
+.fc-bo:before { content: "\f134"; }
+.fc-my:before { content: "\f135"; }
+.fc-md:before { content: "\f136"; }
+.fc-ie:before { content: "\f137"; }
+.fc-ky:before { content: "\f138"; }
+.fc-at:before { content: "\f139"; }
+.fc-tt:before { content: "\f13a"; }
+.fc-uy:before { content: "\f13b"; }
+.fc-mn:before { content: "\f13c"; }
+.fc-jm:before { content: "\f13d"; }
+.fc-ls:before { content: "\f13e"; }
+.fc-lr:before { content: "\f13f"; }
+.fc-ua:before { content: "\f140"; }
+.fc-dm:before { content: "\f141"; }
+.fc-nc:before { content: "\f142"; }
+.fc-si:before { content: "\f143"; }
+.fc-ad:before { content: "\f144"; }
+.fc-lt:before { content: "\f145"; }
+.fc-bn:before { content: "\f146"; }
+.fc-ug:before { content: "\f147"; }
+.fc-km:before { content: "\f148"; }
+.fc-jp:before { content: "\f149"; }
+.fc-gf:before { content: "\f14a"; }
+.fc-mw:before { content: "\f14b"; }
+.fc-ch:before { content: "\f14c"; }
+.fc-am:before { content: "\f14d"; }
+.fc-sj:before { content: "\f14e"; }
+.fc-vc:before { content: "\f14f"; }
+.fc-gt:before { content: "\f150"; }
+.fc-mr:before { content: "\f151"; }
+.fc-qa:before { content: "\f152"; }
+.fc-la:before { content: "\f153"; }
+.fc-vn:before { content: "\f154"; }
+.fc-gw:before { content: "\f155"; }
+.fc-mm:before { content: "\f156"; }
+.fc-ms:before { content: "\f157"; }
+.fc-tz:before { content: "\f158"; }
+.fc-gy:before { content: "\f159"; }
+.fc-cf:before { content: "\f15a"; }
+.fc-ke:before { content: "\f15b"; }
+.fc-ca:before { content: "\f15c"; }
+.fc-za:before { content: "\f15d"; }
+.fc-az:before { content: "\f15e"; }
+.fc-bh:before { content: "\f15f"; }
+.fc-dj:before { content: "\f160"; }
+.fc-sa:before { content: "\f161"; }
+.fc-cc:before { content: "\f162"; }
+.fc-kw:before { content: "\f163"; }
+.fc-th:before { content: "\f164"; }
+.fc-ga:before { content: "\f165"; }
+.fc-gh:before { content: "\f166"; }
+.fc-bl:before { content: "\f167"; }
+.fc-gb:before { content: "\f168"; }
+.fc-jo:before { content: "\f169"; }
+.fc-lb:before { content: "\f16a"; }
+.fc-tj:before { content: "\f16b"; }
+.fc-af:before { content: "\f16c"; }
+.fc-ao:before { content: "\f16d"; }
+.fc-me:before { content: "\f16e"; }
+.fc-kg:before { content: "\f16f"; }
+.fc-vu:before { content: "\f170"; }
+.fc-pt:before { content: "\f171"; }
+.fc-yt:before { content: "\f172"; }
+.fc-ct:before { content: "\f173"; }
+.fc-as:before { content: "\f174"; }
+.fc-va:before { content: "\f175"; }
+.fc-au:before { content: "\f176"; }
+.fc-fj:before { content: "\f177"; }
+.fc-no:before { content: "\f178"; }
+.fc-by:before { content: "\f179"; }
+.fc-et:before { content: "\f17a"; }
+.fc-gi:before { content: "\f17b"; }
+.fc-ve:before { content: "\f17c"; }
+.fc-pg:before { content: "\f17d"; }
+.fc-tg:before { content: "\f17e"; }
+.fc-co:before { content: "\f17f"; }
+.fc-mq:before { content: "\f180"; }
+.fc-lv:before { content: "\f181"; }
+.fc-np:before { content: "\f182"; }
+.fc-cr:before { content: "\f183"; }
+.fc-ag:before { content: "\f184"; }
+.fc-il:before { content: "\f185"; }
+.fc-vg:before { content: "\f186"; }
+.fc-ss:before { content: "\f187"; }
+.fc-tk:before { content: "\f188"; }
+.fc-er:before { content: "\f189"; }
+.fc-aw:before { content: "\f18a"; }
+.fc-bi:before { content: "\f18b"; }
+.fc-ax:before { content: "\f18c"; }
+.fc-kr:before { content: "\f18d"; }
+.fc-ni:before { content: "\f18e"; }
+.fc-pk:before { content: "\f18f"; }
+.fc-bs:before { content: "\f190"; }
+.fc-pf:before { content: "\f191"; }
+.fc-so:before { content: "\f192"; }
+.fc-zw:before { content: "\f193"; }
+.fc-bz:before { content: "\f194"; }
+.fc-td:before { content: "\f195"; }
+.fc-bw:before { content: "\f196"; }
+.fc-be:before { content: "\f197"; }
+.fc-ru:before { content: "\f198"; }
+.fc-ec:before { content: "\f199"; }
+.fc-pa:before { content: "\f19a"; }
+.fc-ai:before { content: "\f19b"; }
+.fc-eg:before { content: "\f19c"; }
+.fc-bv:before { content: "\f19d"; }
+.fc-gs:before { content: "\f19e"; }
+.fc-gp:before { content: "\f19f"; }
+.fc-ye:before { content: "\f1a0"; }
+.fc-gg:before { content: "\f1a1"; }
+.fc-nu:before { content: "\f1a2"; }
+.fc-mu:before { content: "\f1a3"; }
+.fc-bf:before { content: "\f1a4"; }
+.fc-cu:before { content: "\f1a5"; }
+.fc-it:before { content: "\f1a6"; }
+.fc-cd:before { content: "\f1a7"; }
+.fc-ne:before { content: "\f1a8"; }
+.fc-hu:before { content: "\f1a9"; }
+.fc-mv:before { content: "\f1aa"; }
+.fc-pw:before { content: "\f1ab"; }
+.fc-re:before { content: "\f1ac"; }
+.fc-iq:before { content: "\f1ad"; }
+.fc-cv:before { content: "\f1ae"; }
+.fc-gr:before { content: "\f1af"; }
+.fc-im:before { content: "\f1b0"; }
+.fc-gd:before { content: "\f1b1"; }
+.fc-py:before { content: "\f1b2"; }
+.fc-dk:before { content: "\f1b3"; }
+.fc-fi:before { content: "\f1b4"; }
+.fc-om:before { content: "\f1b5"; }
+.fc-vi:before { content: "\f1b6"; }
+.fc-ee:before { content: "\f1b7"; }
+.fc-gl:before { content: "\f1b8"; }
+.fc-tw:before { content: "\f1b9"; }
+.fc-st:before { content: "\f1ba"; }
+.fc-de:before { content: "\f1bb"; }
+.fc-bq:before { content: "\f1bc"; }
+.fc-br:before { content: "\f1bd"; }
+.fc-cn:before { content: "\f1be"; }
+.fc-gn:before { content: "\f1bf"; }
+.fc-tc:before { content: "\f1c0"; }
+.fc-fo:before { content: "\f1c1"; }
+.fc-kn:before { content: "\f1c2"; }
+.fc-li:before { content: "\f1c3"; }
+.fc-sk:before { content: "\f1c4"; }
+.fc-nl:before { content: "\f1c5"; }
+.fc-hn:before { content: "\f1c6"; }
+.fc-zm:before { content: "\f1c7"; }
+.fc-nz:before { content: "\f1c8"; }
+.fc-pn:before { content: "\f1c9"; }
+.fc-dz:before { content: "\f1ca"; }
+.fc-ae:before { content: "\f1cb"; }
+.fc-mg:before { content: "\f1cc"; }
+.fc-ci:before { content: "\f1cd"; }
+.fc-ml:before { content: "\f1ce"; }
+.fc-tm:before { content: "\f1cf"; }
+.fc-sl:before { content: "\f1d0"; }
+.fc-es:before { content: "\f1d1"; }
+.fc-kp:before { content: "\f1d2"; }
+.fc-bb:before { content: "\f1d3"; }
+.fc-io:before { content: "\f1d4"; }
+.fc-eh:before { content: "\f1d5"; }
+.fc-ro:before { content: "\f1d6"; }
+.fc-sc:before { content: "\f1d7"; }
+.fc-hk:before { content: "\f1d8"; }
+.fc-gm:before { content: "\f1d9"; }
+.fc-rw:before { content: "\f1da"; }
+.fc-ly:before { content: "\f1db"; }
+.fc-fr:before { content: "\f1dc"; }
+.fc-ir:before { content: "\f1dd"; }
+.fc-kh:before { content: "\f1de"; }
+.fc-us:before { content: "\f1df"; }
+.fc-sb:before { content: "\f1e0"; }
+.fc-mo:before { content: "\f1e1"; }
+.fc-tr:before { content: "\f1e2"; }
+.fc-bm:before { content: "\f1e3"; }
+.fc-bt:before { content: "\f1e4"; }
+.fc-to:before { content: "\f1e5"; }
+.fc-ma:before { content: "\f1e6"; }
+.fc-sr:before { content: "\f1e7"; }
+.fc-gq:before { content: "\f1e8"; }
+.fc-cl:before { content: "\f1e9"; }
+.fc-hm:before { content: "\f1ea"; }
+.fc-sv:before { content: "\f1eb"; }
+.fc-sn:before { content: "\f1ec"; }
+.fc-bd:before { content: "\f1ed"; }
+.fc-ba:before { content: "\f1ee"; }
+.fc-se:before { content: "\f1ef"; }
+.fc-ng:before { content: "\f1f0"; }
+.fc-uz:before { content: "\f1f1"; }
